@@ -1,0 +1,3 @@
+The purpose of the utility to import bulk documents into Alfresco with their meta data based on a custom content model and convert them to ACP file then import it into Alfresco. It reads custom content model, documents and CSV file and create ACP file.
+
+Source Code is in Download section
